@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2025-09-17T16:42:13.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="OtMTASkjw-b0fDBzqfBf" version="23.1.5" type="device">
+<mxfile host="Electron" modified="2025-09-17T17:40:09.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="kPNIm-L5gJMkajsKnmSw" version="23.1.5" type="device">
   <diagram name="Page-1" id="aXEnYEKyhN8AeZee-PJk">
     <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -218,7 +218,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="isTigd_J0Dsz2-tIGpBy-54" value="Thực hiện quy trình thanh toán" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="isTigd_J0Dsz2-tIGpBy-2" vertex="1">
-          <mxGeometry x="190" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="530" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="isTigd_J0Dsz2-tIGpBy-50" value="[Thanh toán]" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="isTigd_J0Dsz2-tIGpBy-2" source="isTigd_J0Dsz2-tIGpBy-48" target="isTigd_J0Dsz2-tIGpBy-54" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">

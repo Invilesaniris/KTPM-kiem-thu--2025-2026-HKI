@@ -1,3 +1,5 @@
 test/
 *.inp
 *.out
+*.zip
+*.rar
